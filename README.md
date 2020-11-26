@@ -1,0 +1,1 @@
+![Python application](https://github.com/hemilioaraujo/testeCI/workflows/Python%20application/badge.svg?branch=main)
